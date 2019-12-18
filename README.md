@@ -6,7 +6,7 @@ Garland&Heckbert Edge Collapse Mesh-Simplify algorithm
   CMake CMakeLists.txt 로 빌드한 이후 makefile 을 실행시키시면 됩니다.  
   단, 이 프로그램은 제 마칭 테트라헤드라의 오버 테설레이션 문제를 해결하기 위해 시험적으로  
   제작한 프로그램으로 세분화 되지 않은 Obj 파일에 대해서만 동작합니다.  
-  오직 Vertex와 Face 정보만 존재해야하며
+  오직 Vertex와 Face 정보만 존재해야하며  
   v v1.x v1.y v1.y  
   ...  
 
@@ -80,6 +80,6 @@ Garland&Heckbert Edge Collapse Mesh-Simplify algorithm
 
 #5. Enviroment
 --------------
-OS : Apple MAC 10.13 이상 
-Language : C++ 14 이상(CMake 빌드 환경은 C++17 로 되어있음)
-CMake : 3.x 버전 이상
+OS : Apple MAC 10.13 이상   
+Language : C++ 14 이상(CMake 빌드 환경은 C++17 로 되어있음)  
+CMake : 3.x 버전 이상  
